@@ -35,7 +35,7 @@ After running SORO, your messy folder turns into this clean, professional struct
 └── 📁 Timeline_Archive/
     └── 📁 2026/
 
----
+```
 
 🚀 Getting Started & Execution Guide
 Prerequisites
